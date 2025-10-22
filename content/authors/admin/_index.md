@@ -57,7 +57,7 @@ education:
   - area: MS Physical Geography
     institution: Institute of Tibetan Plateau research
     date_start: 2024-09-01
-    date_end: present
+    date_end: 2027-07-01
     summary: |
       GPA: 4.0/4.0
   - area: BS GIS
