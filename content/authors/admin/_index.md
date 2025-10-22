@@ -63,7 +63,7 @@ education:
   - area: BS GIS
     institution: MIT
     date_start: 2020-09-01
-    date_end: 2024-06-31
+    date_end: 2024-06-30
     summary: |
       GPA: 3.9/4.0
 
